@@ -7,7 +7,7 @@
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
-  <a style="margin: 1px" href="https://www.linkedin.com/in/phamgiaphuc-working/">
+  <a style="margin: 1px" href="https://www.linkedin.com/in/chu-ti%E1%BA%BFn-b%C3%ACnh-2357062bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a style="margin: 1px" href="https://www.facebook.com/quangtrung.ky.1/">
