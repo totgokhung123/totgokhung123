@@ -4,6 +4,7 @@
 - 🤗 Proactive, flexible and professional attitude.
 - 🌱 My main programming languages are python and java, C#.
 - 📄 My curriculumn vitae: [Click here](https://totgokhung.netlify.app/assets/uploads/CV5.pdf)
+- 📓 My Blog: [Click here](https://totgokhung.netlify.app/)
 ## 📫 How to reach me
 
 <div id="badges" align="center" style="margin: 3px">
