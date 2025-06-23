@@ -1,5 +1,5 @@
 ## 👤 About me
-- 👋 Hi there! My name is Chu Tien Binh. I am currently a student at the Faculty of Information Technology, Ho Chi Minh City University of Technology (HUTECH). My major is Artificial Intelligence.
+- 👋 Hi there! My name is Chu Tien Binh. I am currently a student at the Faculty of Information Technology, Ho Chi Minh City University of Technology. My major is Artificial Intelligence.
 - 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
 - 🤗 Proactive, flexible and professional attitude.
 - 🌱 My main programming languages are python and java, C#.
