@@ -50,7 +50,7 @@
 ## 🔥 My stats
 ![](https://github-readme-stats.vercel.app/api?username=totgokhung123&theme=omni&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=totgokhung123&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=totgokhung123&theme=omni&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=totgokhung123&theme=omni&hide_border=false&layout=compact&hide=html,css)<br/>
 ![](https://github-trophies.vercel.app/?username=totgokhung123&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
 
 [![Stars Badge](https://img.shields.io/github/stars/totgokhung123?affiliations=OWNER%2CCOLLABORATOR%2CORGANIZATION_MEMBER&logo=github&color=red&logoColor=black&style=for-the-badge)](https://github.com/totgokhung123)
