@@ -11,9 +11,6 @@
   <a style="margin: 1px" href="https://www.linkedin.com/in/chu-ti%E1%BA%BFn-b%C3%ACnh-2357062bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a style="margin: 1px" href="https://www.facebook.com/quangtrung.ky.1/">
-    <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=youtube&logoColor=blue"/>
-  </a>
   <a style="margin: 1px" href="https://github.com/totgokhung123">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=Github&logoColor=white"/>
   </a>
