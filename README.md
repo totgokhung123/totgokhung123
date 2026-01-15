@@ -3,7 +3,6 @@
 - 👀 Highly motivated and ambitious individual seeking an internship opportunity to enhance skills in software industries.
 - 🤗 Proactive, flexible and professional attitude.
 - 🌱 My main programming languages are python and java, C#.
-- 📄 My curriculumn vitae: [Click here](https://totgokhung.netlify.app/assets/uploads/CV5.pdf)
 - 📓 My Blog: [Click here](https://totgokhung.netlify.app/)
 ## 📫 How to reach me
 
